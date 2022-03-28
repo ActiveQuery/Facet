@@ -1,7 +1,6 @@
 Facet
 
 Copyright © 2018 - 2022 Syed Kazmi
-Copyright © 2021 - 2022 Brixbon
 
 "Facet" a Cascading Style Sheets Software, and regardless of adopted case formats is 
 synonymous with and wheresoever referred to as "Facet CSS" or "FacetCSS" or "Facet.css". 
